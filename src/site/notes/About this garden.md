@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/about-this-garden/"}
+{"dg-publish":true,"permalink":"/about-this-garden/","tags":["gardenEntry"]}
 ---
 
 The notes on this website are written using [Obsidian](https://obsidian.md/), a [markdown](https://en.wikipedia.org/wiki/Markdown)-based note-taking application, and are published to the web using [Obsidian Digital Garden](https://github.com/oleeskild/obsidian-digital-garden) and [Vercel](https://vercel.app/).
