@@ -23,5 +23,5 @@ If you're striving to live a life with purpose and intentionality, a good [[Heur
 
 $$ {Signal-to-Noise Ratio} = \frac{{Signal}}{Noise} $$
 
-That is, out of all the things - information, relationships, activities, and commitments that are vying for your attention - you should aim to increase the things that you consider "signal" and [[Topics/Information Management/Reducing Noise\|minimize the things you consider "noise."]] What you consider "signal" and "noise" is entirely up to your discretion.
+That is, out of all the things - information, relationships, activities, and commitments - that are vying for your attention, you should aim to increase the things that you consider "signal" and [[Topics/Information Management/Reducing Noise\|eliminate the things you consider "noise."]] What you consider "signal" and "noise" is entirely up to you and [[Aim\|your life's priorities]].
 
