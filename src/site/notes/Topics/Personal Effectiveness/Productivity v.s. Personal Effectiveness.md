@@ -15,4 +15,6 @@ I much prefer the term **"personal effectiveness."**
 **Personal** = the things you consider important (to you, personally, and in the wider world)
 **Effectiveness** = Your ability to bring about desired outcomes in those areas
 
-Thus, personal effectiveness is the subject of improving your ability to generate desired outcomes in the areas you consider important. 
+Thus, personal effectiveness is the subject of improving your ability to generate desired outcomes in the areas you consider important.
+
+To me, the term "personal effectiveness" emphasizes more appropriately captures what I think productivity should be about - cultivating your ability to bring about meaningful change in your life, community, and the world.
