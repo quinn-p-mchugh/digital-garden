@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/welcome-to-my-garden/","tags":["gardenEntry"]}
 ---
 
-![test.jpg](/img/user/Assets/test.jpg)
+![Quinn overlooking the Pacific Ocean in County Kerry, Ireland.jpg](/img/user/Assets/Quinn%20overlooking%20the%20Pacific%20Ocean%20in%20County%20Kerry,%20Ireland.jpg)
 
 **Hi there!** 👋 This website is my *digital garden* - a collection of public notes I've written for reference by myself and visitors like you.
 

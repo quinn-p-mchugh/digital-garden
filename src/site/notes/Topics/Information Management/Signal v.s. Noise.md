@@ -19,7 +19,7 @@ Your [[Attention\|attention]] is a limited resource, continuously consumed by  b
 - Reddit threads that might be entertaining but are ultimately a distraction
 - Etc
 
-If you're striving to live a life with purpose and intentionality, a good [[Heuristic\|heuristic]] is to try and increase your life's **signal-to-noise ratio**:  
+If you're striving to live a life with purpose and intentionality, a good [[Topics/Psychology & Rationality/Heuristic\|heuristic]] is to try and increase your life's **signal-to-noise ratio**:  
 
 $$ {Signal-to-Noise Ratio} = \frac{{Signal}}{Noise} $$
 
